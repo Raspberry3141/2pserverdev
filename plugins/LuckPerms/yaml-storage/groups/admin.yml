@@ -1,0 +1,14 @@
+name: admin
+permissions:
+- essentials.build.break.*:
+    value: false
+- essentials.build.*:
+    value: false
+- antibuild.break:
+    value: false
+- antibuild.build:
+    value: false
+- antibuild.bypass
+- antibuild.place:
+    value: false
+- minecraft.command.ban

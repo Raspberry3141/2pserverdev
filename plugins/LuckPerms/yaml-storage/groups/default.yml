@@ -1,0 +1,9 @@
+name: default
+permissions:
+- '*':
+    value: false
+- essentials.build:
+    value: false
+prefixes:
+- '&e[default]':
+    priority: 1

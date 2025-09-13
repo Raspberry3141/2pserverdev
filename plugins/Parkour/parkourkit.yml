@@ -1,0 +1,55 @@
+ParkourKit:
+  default:
+    SMOOTH_BRICK:
+      Action: death
+    BRICK:
+      Action: climb
+      Strength: 0.4
+    EMERALD_BLOCK:
+      Action: launch
+      Strength: 1.2
+    MOSSY_COBBLESTONE:
+      Action: bounce
+      Strength: 5.0
+      Duration: 200
+    OBSIDIAN:
+      Action: speed
+      Strength: 5.0
+      Duration: 200
+    ENDER_STONE:
+      Action: repulse
+      Strength: 0.4
+    GOLD_BLOCK:
+      Action: norun
+    HUGE_MUSHROOM_2:
+      Action: finish
+    HUGE_MUSHROOM_1:
+      Action: nopotion
+  testkit:
+    SMOOTH_BRICK:
+      Action: death
+    BRICK:
+      Action: climb
+      Strength: 0.4
+    EMERALD_BLOCK:
+      Action: launch
+      Strength: 1.2
+    MOSSY_COBBLESTONE:
+      Action: bounce
+      Strength: 5.0
+      Duration: 200
+    OBSIDIAN:
+      Action: speed
+      Strength: 5.0
+      Duration: 200
+    ENDER_STONE:
+      Action: repulse
+      Strength: 0.4
+    GOLD_BLOCK:
+      Action: norun
+    HUGE_MUSHROOM_2:
+      Action: finish
+    HUGE_MUSHROOM_1:
+      Action: nopotion
+    DIRT:
+      Action: norun

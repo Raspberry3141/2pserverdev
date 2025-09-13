@@ -1,0 +1,141 @@
+course:
+  Checkpoints: 0
+  '0':
+    X: 2.5
+    Y: 66.5
+    Z: 0.5
+    Yaw: 265.05
+    Pitch: 51.149986
+    PlateX: 2
+    PlateY: 65
+    PlateZ: 0
+test:
+  Checkpoints: 1
+  '0':
+    X: 3.5
+    Y: 66.5
+    Z: 0.5
+    Yaw: 269.09998
+    Pitch: 15.449989
+    PlateX: 3
+    PlateY: 65
+    PlateZ: 0
+  '1':
+    X: 5.5
+    Y: 66.5
+    Z: 0.5
+    Yaw: 250.35014
+    Pitch: 64.04995
+    PlateX: 5
+    PlateY: 65
+    PlateZ: 0
+main:
+  Checkpoints: 11
+  '0':
+    X: -3.5
+    Y: 68.5
+    Z: 7.5
+    Yaw: -359.58508
+    Pitch: 58.14426
+    PlateX: -4
+    PlateY: 67
+    PlateZ: 7
+  '1':
+    X: -3.5
+    Y: 68.5
+    Z: 7.5
+    Yaw: -3.0830078
+    Pitch: 90.0
+    PlateX: -4
+    PlateY: 67
+    PlateZ: 7
+  '2':
+    X: -5.5
+    Y: 77.5
+    Z: 71.5
+    Yaw: -353.83896
+    Pitch: 89.62523
+    PlateX: -6
+    PlateY: 76
+    PlateZ: 71
+  '3':
+    X: -3.5
+    Y: 92.5
+    Z: 6.5
+    Yaw: -359.21075
+    Pitch: 90.0
+    PlateX: -4
+    PlateY: 91
+    PlateZ: 6
+  '4':
+    X: 34.5
+    Y: 109.5
+    Z: 28.5
+    Yaw: 10.31405
+    Pitch: 85.75256
+    PlateX: 34
+    PlateY: 108
+    PlateZ: 28
+  '5':
+    X: -34.5
+    Y: 108.5
+    Z: 28.5
+    Yaw: -16.41968
+    Pitch: 87.00181
+    PlateX: -35
+    PlateY: 107
+    PlateZ: 28
+  '6':
+    X: -42.5
+    Y: 116.5
+    Z: 99.5
+    Yaw: 7.8155537
+    Pitch: 85.50275
+    PlateX: -43
+    PlateY: 115
+    PlateZ: 99
+  '7':
+    X: 10.5
+    Y: 135.5
+    Z: 112.5
+    Yaw: -36.032757
+    Pitch: 74.77466
+    PlateX: 10
+    PlateY: 134
+    PlateZ: 112
+  '8':
+    X: -4.5
+    Y: 82.5
+    Z: -35.5
+    Yaw: -201.18222
+    Pitch: 90.0
+    PlateX: -5
+    PlateY: 81
+    PlateZ: -36
+  '9':
+    X: -40.5
+    Y: 85.5
+    Z: -37.5
+    Yaw: -272.88846
+    Pitch: 90.0
+    PlateX: -41
+    PlateY: 84
+    PlateZ: -38
+  '10':
+    X: -61.5
+    Y: 97.5
+    Z: -23.5
+    Yaw: -331.22794
+    Pitch: 90.0
+    PlateX: -62
+    PlateY: 96
+    PlateZ: -24
+  '11':
+    X: -69.5
+    Y: 108.5
+    Z: 11.5
+    Yaw: -11.078735
+    Pitch: 85.2529
+    PlateX: -70
+    PlateY: 107
+    PlateZ: 11

@@ -1,0 +1,17 @@
+cmds
+
+lp:
+/lp group [group] permission set [permission] true
+
+parkour:
+	create course:
+	/pa create [course]
+	/pa checkpoint
+	/pa done
+	
+	test:
+	/pa list courses
+	/pa test [course]
+
+
+/give @p minecraft:stone 1 0 {CanPlaceOn:["minecraft:stone"]}

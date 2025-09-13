@@ -1,0 +1,4 @@
+name: finished
+prefixes:
+- '&d[finished]':
+    priority: 1

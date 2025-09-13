@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1757444998468
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757456243981
+  login: 1757454772177
+money: '0'
+last-account-name: TheTakenCookies
+logoutlocation:
+  world: e3ce5343-7e2b-4b3f-bbff-222f001dbaed
+  world-name: voidworld
+  x: -4.66593925661818
+  y: 74.0
+  z: 12.763993251824092
+  yaw: -160.11181640625
+  pitch: 62.017024993896484
+lastlocation:
+  world: e3ce5343-7e2b-4b3f-bbff-222f001dbaed
+  world-name: voidworld
+  x: -2.4720664461575907
+  y: 92.0
+  z: 6.081042333181874
+  yaw: 134.89512634277344
+  pitch: 9.798871994018555
+homes:
+  home:
+    world: e3ce5343-7e2b-4b3f-bbff-222f001dbaed
+    world-name: voidworld
+    x: -3.5
+    y: 68.0
+    z: 6.5
+    yaw: -0.02237759716808796
+    pitch: -1.3193806409835815

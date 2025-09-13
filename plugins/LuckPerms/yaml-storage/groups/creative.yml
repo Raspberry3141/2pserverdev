@@ -1,0 +1,4 @@
+name: creative
+prefixes:
+- '&l[creative]':
+    priority: 1
