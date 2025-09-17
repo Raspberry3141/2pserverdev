@@ -1,0 +1,16 @@
+# language - available by default : en, fr, de, se, cn
+lang: en
+  
+# force the music played on join (players can't disable it)
+forceJoinMusic: false
+
+# send plugin message when starting/stopping music...
+sendMessages: true
+
+# load files asynchronously
+asyncLoading: false
+
+defaultPlayerOptions:
+  volume: 100
+  join: false
+  shuffle: false

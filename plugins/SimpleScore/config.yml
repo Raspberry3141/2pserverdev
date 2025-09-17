@@ -9,7 +9,7 @@ version: 3
 language: en
 
 # Check for updates when the plugin starts
-checkForUpdates: true
+checkForUpdates: false
 
 # Whether to apply placeholders asynchronously or not (disabling this will reduce performance)
 asyncPlaceholders: true

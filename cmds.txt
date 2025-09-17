@@ -1,17 +1,31 @@
-cmds
+CRITICAL:
+- fix via version
+- infinite chest
+- lobby/menu
+-checkpoint system
 
-lp:
-/lp group [group] permission set [permission] true
+BENEFICIAL:
+- map creator
+- world edit
+- p2w with paypal
 
-parkour:
-	create course:
-	/pa create [course]
-	/pa checkpoint
-	/pa done
-	
-	test:
-	/pa list courses
-	/pa test [course]
+NICE:
+-prefix color
+- music
+- migrate to bouncyTNT from the HypixelTNT
+- modifier
+- ping changer
 
 
-/give @p minecraft:stone 1 0 {CanPlaceOn:["minecraft:stone"]}
+ITEMS for pregression
+kb
+inverse kb
+skewed kb
+fishing rod
+speed potion
+pufferfish
+2 coins per j
+tnt
+prestige
+
+rank based on completion time (S A B C D)

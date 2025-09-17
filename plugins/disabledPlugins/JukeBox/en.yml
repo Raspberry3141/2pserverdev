@@ -1,0 +1,27 @@
+# 
+# Translated by SkytAsul
+
+NEXT_PAGE: "\xa7bNext page"
+LATER_PAGE: "\xa7bPrevious page"
+PLAYER: "\xa7cYou must be a player to do this command."
+RELOAD_MUSIC: "\xa7aMusic reloaded."
+INV_NAME: "\xa7d\xa7lJukebox !"
+TOGGLE_PLAYING: "\xa76Pause/play"
+VOLUME: "\xa79Music volume : \xa7b"
+RIGHT_CLICK: "\xa7eRight click: decrease by 10%"
+LEFT_CLICK: "\xa7eLeft click: increase by 10%"
+RANDOM_MUSIC: "\xa73Random music"
+STOP: "\xa7cStop the music"
+MUSIC_STOPPED: "\xa7aMusic stopped."
+ENABLE: Enable
+DISABLE: Disable
+SHUFFLE_MODE: the shuffle mode
+CONNEXION_MUSIC: music when connecting
+MUSIC_PLAYING: "\xa7aMusic while playing:"
+INCORRECT_SYNTAX: "\xa7cIncorrect syntax."
+RELOAD_LAUNCH: "\xa7aTrying to reload."
+RELOAD_FINISH: "\xa7aReload finished."
+AVAILABLE_COMMANDS: "\xa7aAvailable commands:"
+INVALID_NUMBER: "\xa7cInvalid number."
+PLAYER_MUSIC_STOPPED: "\xa7aMusic stopped for player: \xa7b"
+IN_PLAYLIST: "\xa79\xa7oIn Playlist"

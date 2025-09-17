@@ -1,5 +1,7 @@
 uuid: 9d07e954-63dd-4ac2-9124-8b585cc8fe0e
 name: TheTakenCookies
 primary-group: default
+permissions:
+- 2p.irontd
 parents:
 - admin

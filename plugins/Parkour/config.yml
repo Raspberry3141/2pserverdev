@@ -195,7 +195,7 @@ ParkourGUI:
   Material: BOOK
   FillerMaterial: CYAN_STAINED_GLASS_PANE
 Other:
-  CheckForUpdates: true
+  CheckForUpdates: false
   LogToFile: true
   EnforceSafeCheckpoints: true
   UseAutoTabCompletion: true

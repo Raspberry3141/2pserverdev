@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.0.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757914556593
+  login: 1757914259628
+money: '0'
+last-account-name: Raspberry5
+logoutlocation:
+  world: e3ce5343-7e2b-4b3f-bbff-222f001dbaed
+  world-name: voidworld
+  x: 10.0
+  y: -102.5519000699484
+  z: 10.0
+  yaw: 147.87747192382812
+  pitch: -75.59999084472656
